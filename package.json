@@ -1,0 +1,11 @@
+{
+  "name": "js-tools-and-workflow",
+  "version": "1.0.0",
+  "description": "New Package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tarik Talic",
+  "license": "ISC"
+}
